@@ -1,0 +1,5 @@
+{
+  "name": "Backyard Beer Die Deluxe V1",
+  "description": "A Backyard Baseball styled Beer Die game with physics-based tossing and catching mechanics.",
+  "requestFramePermissions": ["web-share"]
+}
